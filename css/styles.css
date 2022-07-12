@@ -1,0 +1,44 @@
+p{
+font-family: Roboto;
+font-style:  Regular;
+font-size:  14px; 
+line-height:  24px ;
+color: #757575;
+}
+li{
+    list-style: none;
+}
+a {
+    text-decoration: none;
+
+}
+/* header */
+.header-logo,.footer-logo {
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+        color: #000000;
+}
+.web{
+    color: #2196F3;
+}
+.header-link,.header-phone,.header-mail{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #212121;
+}
+.header-link,
+.header-phone,
+.header-mail :hover{
+    color: #2196F3;
+}
+.header-link,
+.header-phone,
+.header-mail :focus{
+    color: #2196F3;
+}
