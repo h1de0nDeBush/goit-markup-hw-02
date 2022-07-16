@@ -121,8 +121,6 @@ font-weight: 700;
 }
 
 .about-text {
-    
-        font-weight: 400;
         font-size: 14px;
         line-height: 1.71;
         letter-spacing: 0.03em;
@@ -159,7 +157,6 @@ font-weight: 700;
 }
 
 .team-text{
-font-weight: 400;
 font-size: 16px;
 line-height: calc(19/16);
 text-align: center;
@@ -179,7 +176,6 @@ color: var(--main-color);
     color:#FFFFFF;
 }
 .footer-phone,.footer-mail{
-font-weight: 400;
     font-size: 14px;
     line-height:1.71;
     letter-spacing: 0.03em;
@@ -229,7 +225,6 @@ background-color: #2196F3;
         color: var(--title-colot);
 }
 .product-text{
-    font-weight: 400;
         font-size: 16px;
         line-height: 1.88;
         letter-spacing: 0.03em;
